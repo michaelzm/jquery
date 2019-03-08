@@ -1,0 +1,17 @@
+#button1 {
+    background-color: #4CAF50;
+    font-size: 24px;
+}
+#button2 {
+    background-color: rgb(214, 81, 48);
+    font-size: 24px;
+}
+#button3 {
+    background-color: rgb(35, 38, 209);
+    font-size: 24px;
+}
+
+#scaling {
+    font-family: sans-serif;
+    max-width: 100%;
+}
